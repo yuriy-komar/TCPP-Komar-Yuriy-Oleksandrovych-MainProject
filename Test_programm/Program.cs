@@ -7,9 +7,9 @@ namespace Test_programm
         static void Main(string[] args)
         {
             // Гілка Alpha 
-            // Зміни з студії
+            // Зміни з браузера
             Console.WriteLine("Hello World!, I`m Komar Yuriy from Vinnitsya");
-            Console.WriteLine("Hello World!, addited from VS, addited ");
+            Console.WriteLine("Hello World!, from Chrome");
         }
     }
 }
