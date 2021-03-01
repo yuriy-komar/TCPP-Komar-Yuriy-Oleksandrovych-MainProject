@@ -9,7 +9,7 @@ namespace Test_programm
             // Гілка Alpha 
             // Зміни з студії
             Console.WriteLine("Hello World!, I`m Komar Yuriy from Vinnitsya");
-            Console.WriteLine("Hello World!, addited from VS");
+            Console.WriteLine("Hello World!, addited from VS, addited ");
         }
     }
 }
