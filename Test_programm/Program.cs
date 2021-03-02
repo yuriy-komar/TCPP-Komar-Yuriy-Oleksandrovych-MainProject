@@ -6,6 +6,7 @@ namespace Test_programm
     {
         static void Main(string[] args)
         {
+            // зміни з браузера
             Console.WriteLine("Hello World!");
         }
     }
