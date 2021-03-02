@@ -6,7 +6,9 @@ namespace Test_programm
     {
         static void Main(string[] args)
         {
+            // зміни з браузера
             // зміни з VS
+            // Вирішено конфлікт 02.03
             Console.WriteLine("Hello World!");
         }
     }
